@@ -1,0 +1,13 @@
+<config>
+    <file
+            source_path="/home/c3po/IdeaProjects/Veem/src/files"
+            destination_path="/home/c3po/IdeaProjects/Veem"
+            file_name="boroda.txt"
+    />
+
+    <file
+            source_path="/home/c3po/IdeaProjects/Veem/src/files"
+            destination_path="/home/c3po/IdeaProjects/Veem"
+            file_name="pro.txt"
+    />
+</config>
